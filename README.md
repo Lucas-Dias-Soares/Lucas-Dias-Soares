@@ -1,8 +1,8 @@
 ### Faaala Dev, tudo bem? 👋
 
 <div>
-  <img   src="https://github-readme-stats.vercel.app/api?username=Lucas-Dias-Soares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dias-Soares&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Dias-Soares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dias-Soares&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br/>
 
@@ -18,12 +18,12 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: dias8489@gmail.com">
       <img width="30" src="gmail.png">
     </a>
-    <a href = "">
+    <a href = "https://www.linkedin.com/in/lucas-dias-soares-8b44a0228/">
       <img width="25" src="linkedin.png">
-    <a href = "">
+    <a href = "https://www.instagram.com/lucas_dias8489/">
       <img width="25" src="instagram.png">
     </a>
 </div>
