@@ -1,7 +1,7 @@
 ### Faaala Dev, tudo bem? 👋
 
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Dias-Soares&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Dias-Soares&count_private=true&show_icons=true&theme=dracula"/>
   <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dias-Soares&count_private=true&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br/>
