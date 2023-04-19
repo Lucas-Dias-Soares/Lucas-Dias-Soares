@@ -1,8 +1,8 @@
 ### Faaala Dev, tudo bem? 👋
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Dias-Soares&show_icons=true&theme=dracula"/>
-  <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dias-Soares&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Dias-Soares&show_icons=true&theme=dracula"/>
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dias-Soares&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br/>
 
