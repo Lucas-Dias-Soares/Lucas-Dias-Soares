@@ -6,4 +6,4 @@ Olá! Bem-vindo ao meu GitHub 👋
 📈 Estatísticas do GitHub
 <div align="center"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Dias-Soares&count_private=true&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats"> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dias-Soares&count_private=true&layout=compact&langs_count=6&theme=graywhite&hide_border=true" alt="Most Used Languages"> </div>
 🌐 Contato
-<p align="center"> <a href="mailto:dias8489@gmail.com"><img width="20" src="gmail.png" alt="Gmail"> dias8489@gmail.com</a> | <a href="https://www.linkedin.com/in/lucas-dias-soares-8b44a0228/"><img width="20" src="linkedin.png" alt="LinkedIn"> LinkedIn</a> | <a href="https://www.instagram.com/lucas_dias8489/"><img width="20" src="instagram.png" alt="Instagram"> Instagram</a> </p>
+<p align="center"> <a href="mailto:dias8489@gmail.com"><img width="20" src="gmail.png" alt="Gmail"></a> | <a href="https://www.linkedin.com/in/lucas-dias-soares-8b44a0228/"><img width="20" src="linkedin.png" alt="LinkedIn"> </a>
